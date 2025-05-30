@@ -1,0 +1,3 @@
+com\example\shop\infrastructure\controller\OrderControllerIntegrationTest.class
+com\example\shop\domain\service\OrderServiceTest.class
+com\example\shop\infrastructure\controller\CartControllerIntegrationTest.class
